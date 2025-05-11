@@ -1,4 +1,5 @@
 AWS RDS Scanner Helm Chart
+
 A Helm chart for deploying the AWS RDS Scanner container on Minikube with manual execution.
 
 Prerequisites
